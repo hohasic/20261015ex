@@ -109,8 +109,7 @@ public class MainClass {
 		width = 100;
 		height = 50;
 		System.out.println("방의 넓이: " + (width * height)); // 5000
-		
-		 
+				 
 		
 	}
 	
